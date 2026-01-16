@@ -1,0 +1,48 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Nadim Piano Diary'
+theme = 'PaperMod'
+
+[params]
+  description = "A 35-year-old's journey to learn piano, inspired by Toby Fox's music"
+  author = "Nadim"
+  showReadingTime = true
+  showShareButtons = false
+  showPostNavLinks = true
+  showBreadCrumbs = true
+  showCodeCopyButtons = true
+
+  [params.homeInfoParams]
+    Title = "Nadim Piano Diary"
+    Content = """
+Welcome to my piano learning diary! I'm 35 years old with zero piano experience,
+but my love for Toby Fox's music (Undertale, Deltarune) has inspired me to learn.
+
+**My Goal:** By the end of 2026, play at least two Toby Fox compositions competently.
+
+**My Piano:** Casio CT-S1
+"""
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
+  [[menu.main]]
+    identifier = "archive"
+    name = "Archive"
+    url = "/archives/"
+    weight = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
