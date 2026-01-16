@@ -29,7 +29,7 @@ I can't drive back home just yet to set it up, because I have some meetings firs
 - [_The Legend_](https://www.youtube.com/watch?v=tUBxb8GU7Xc)
 - [_Don't Forget_](https://www.youtube.com/watch?v=QDOKK-Nny2M)
 
-I chose the above songs not because they're my ideal Deltarune songs, but because they seem easy. Ideally, I'd like to play _Scarlet Forest_, _Ruder Buster_ and other songs, but they seem out of reach. Even those easy ones above seem out of reach!
+I chose the above songs not because they're my ideal Deltarune songs, but because they seem easy. Ideally, I'd like to play [_Scarlet Forest_](https://www.youtube.com/watch?v=2domKTeNeVE), [_The World Revolving_](https://www.youtube.com/watch?v=makn7SBdtuU), [_Ruder Buster_](https://www.youtube.com/watch?v=oF-XAQgsErs) and other songs, but they seem out of reach. Even those easy ones above seem out of reach!
 
 ---
 
