@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nadim.computer/piano/'
 languageCode = 'en-us'
 title = 'Nadim Piano Diary'
 theme = 'PaperMod'
@@ -38,11 +38,6 @@ but my love for Toby Fox's music (Undertale, Deltarune) has inspired me to learn
     name = "Tags"
     url = "/tags/"
     weight = 20
-  [[menu.main]]
-    identifier = "archive"
-    name = "Archive"
-    url = "/archives/"
-    weight = 30
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
