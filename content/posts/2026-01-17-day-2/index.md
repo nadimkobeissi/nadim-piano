@@ -1,8 +1,8 @@
 ---
 title: "Day 2"
-date: 2026-01-16
+date: 2026-01-17
 draft: false
-tags: ["meta"]
+tags: ["learning"]
 summary: "They should really write the notes on the keys!"
 ---
 
