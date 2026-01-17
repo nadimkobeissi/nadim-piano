@@ -1,6 +1,7 @@
 #!/bin/bash
 
 git submodule update --remote --merge
+git add -A; git commit -am "Piano diary publish"; git push
 
 hugo build
 rm -rf ../nadim-website/piano/*

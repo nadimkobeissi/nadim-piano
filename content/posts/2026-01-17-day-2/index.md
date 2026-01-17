@@ -8,6 +8,8 @@ summary: "They should really write the notes on the keys!"
 
 Last night, I set up my piano on my desk and played it a little bit. But the real work started today: I did about an hour and a half in the morning, followed by an hour in the evening.
 
+Basically this thing looks like a very large computer keyboard except it only has one big row and one small row, all the keys look the same, and it's really hard to get your bearings. Plus, if you type on it, it makes noises, and you have to be careful with how hard you strike the keys because the noise sounds different depending on the amount of force. It's very unwieldy and kind of looks silly.
+
 After getting a feel for the machine, the first thing I tried to do was play [_The Legend_](https://www.youtube.com/watch?v=tUBxb8GU7Xc) and now today by the end of Day 2, it remains the main song that I've been trying to play.
 
 Playing the actual song itself "the stupid way" (memorizing the keys to press and pressing them) isn't hard. If I just stick to it for a couple of weeks, I can seem like I "mastered" the above song.
