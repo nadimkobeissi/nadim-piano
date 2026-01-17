@@ -41,3 +41,6 @@ but my love for Toby Fox's music (Undertale, Deltarune) has inspired me to learn
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+unsafe = true
