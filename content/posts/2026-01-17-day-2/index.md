@@ -18,7 +18,7 @@ What's really challenging to me right now is understanding the where the damn no
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:zpu3zbbixhvl5uvcfq2tlci6/app.bsky.feed.post/3mckxxdt5hc2p" data-bluesky-cid="bafyreidguq4wge6i4qrjrrs6m4oqlgkovn3duwfbifilz6ltyl5i3ixfam" data-bluesky-embed-color-mode="system"><p lang="en">EXCUSE ME, INVENTOR OF THE PIANO? WHY DON&#x27;T YOU WRITE THE NAME OF THE NOTE ON THE PIANO KEYS, PLEASE? WHEN SOMEONE IS LEARNING HOW TO USE THE COMPUTER, YOU DON&#x27;T GIVE THEM A KEYBOARD WITH NO LETTERS ON THE KEYBOARD. PLEASE WRITE WHERE IS C# AND B2 ETC. THANK YOU FOR YOUR ATTENTION TO THIS MATTER</p>&mdash; Nadim Kobeissi (<a href="https://bsky.app/profile/did:plc:zpu3zbbixhvl5uvcfq2tlci6?ref_src=embed">@nadim.computer</a>) <a href="https://bsky.app/profile/did:plc:zpu3zbbixhvl5uvcfq2tlci6/post/3mckxxdt5hc2p?ref_src=embed">January 16, 2026 at 9:49 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
-I quickly placed an order for the following set on stickers on Amazon:
+I quickly placed an order for the following set of stickers on Amazon:
 
 ![An order on Amazon for stickers that show you the name of notes on the piano keys](amazon-stickers.jpg)
 
