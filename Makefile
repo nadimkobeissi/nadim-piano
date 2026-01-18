@@ -1,4 +1,7 @@
-.PHONY: serve build publish
+.PHONY: install serve build publish
+
+install:
+	git submodule update --init --recursive
 
 serve:
 	hugo serve
