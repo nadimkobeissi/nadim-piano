@@ -17,4 +17,6 @@ Essentially, I got to page 25 in _Alfred's Basic Adult All-in-One Course, Book 1
 
 I also got in touch with a piano teacher with whom I might start taking lessons soon. His first request: stick to the book so that I avoid learning bad habits, and also, get a piano pedal before any eventual lessons with him. So I ordered [this one](https://www.amazon.fr/-/en/Yamaha-Digital-Piano-Pedal-Silver/dp/B00A3IJWYE/?th=1).
 
+Also, I stumbled upon this interesting video by piano teacher Jazer Lee: [_5 Concepts Piano Beginners Must Understand To Learn Fast_](https://www.youtube.com/watch?v=ipcm-Ub22UY)
+
 I am going to doggedly power through this. I will not give up. I will practice every single day, and by the end of this year, I will achieve a humble standard of competence at the piano.
