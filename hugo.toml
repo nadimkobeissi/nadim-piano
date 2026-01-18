@@ -4,7 +4,7 @@ title = 'Nadim Piano Diary'
 theme = 'PaperMod'
 
 [params]
-description = "A 35-year-old's journey to learn piano, inspired by Toby Fox's music"
+description = "My diary where I document my adventure to learn the piano so I can play Toby Fox melodies"
 author = "Nadim"
 showReadingTime = true
 showPostNavLinks = true
@@ -14,12 +14,13 @@ showCodeCopyButtons = true
 [params.homeInfoParams]
 Title = "Nadim Piano Diary"
 Content = """
-Welcome to my piano learning diary! I'm 35 years old with zero piano experience,
-but my love for Toby Fox's music (Undertale, Deltarune) has inspired me to learn.
+Welcome to my piano learning diary! I'm 35 years old with zero piano experience, but my love for Toby Fox's music (Undertale, Deltarune) has inspired me to learn.
 
-**My Goal:** By the end of 2026, play at least two Toby Fox compositions competently.
+My goal is to, by the end of 2026, play at least two Toby Fox compositions competently. My number one dream is to one day be able to play [_The World Revolving_](https://www.youtube.com/watch?v=makn7SBdtuU).
 
-**My Piano:** Casio CT-S1
+Will I succeed? Let us find out together in this very boring diary which I use as a public accountability mechanism to shame myself if I fail or slack off, and where my foibles will be on full display! Also it will be really, really boring! Why would anyone read this?
+
+Enjoy?
 """
 
 [menu]
