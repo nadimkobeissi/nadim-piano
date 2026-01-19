@@ -28,4 +28,4 @@ So, today's goal has been to keep repeating these two pieces until they're effor
 
 Also, during today's lunch break, I watched a bunch of videos from [Jazer Lee](https://www.youtube.com/@jazerleepiano)'s YouTube channel. He seems really good, and his videos are giving me a lot of insight on random things about playing the piano.
 
-Anyway, back to ~~torture~~ Jingle Bells.
+Anyway, back to ~~torture~~ _Jingle Bells_.
