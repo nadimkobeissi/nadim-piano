@@ -28,4 +28,16 @@ So, today's goal has been to keep repeating these two pieces until they're effor
 
 Also, during today's lunch break, I watched a bunch of videos from [Jazer Lee](https://www.youtube.com/@jazerleepiano)'s YouTube channel. He seems really good, and his videos are giving me a lot of insight on random things about playing the piano.
 
-Anyway, back to ~~torture~~ _Jingle Bells_.
+Anyway, back to Jingle ~~Hell~~ Bells.
+
+---
+
+**End of day update**: practiced some more. I can now get both songs right. _Brother John_ turned out to be trivial compared to _Jingle Bells_ and didn't teach me anything new. _Jingle Bells_ was a big challenge and I found it difficult! Largely because of the whole thing where you're learning how to play with both hands while reading notes.
+
+The very last five notes are the most challenging...
+
+![](jingle-bells-last.png)
+
+...largely because you need to switch your bass fingers after only two counts, and then again at the next segment, so three times in total.
+
+Whew! Piano is hard. But I won't give up!!! I'm going to learn the piano and play Toby Fox songs!
