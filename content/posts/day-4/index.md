@@ -14,7 +14,7 @@ Of course this is a very easy piece, but I found it challenging not because it's
 - Get better at reading notes,
 - Get better at playing with both hands.
 
-Open question to mankind: why are the notes on the bass staff written differently than on the treble staff?! On the treble staff, the C is all the way at the bottom. On the bass staff, it's somewhere near the middle?! Why???
+~~Open question to mankind: why are the notes on the bass staff written differently than on the treble staff?! On the treble staff, the C is all the way at the bottom. On the bass staff, it's somewhere near the middle?! Why???~~ It's because it makes the notes on both staves equidistant from middle C.
 
 Then, after _Jingle Bells_, there's _Brother John_:
 
