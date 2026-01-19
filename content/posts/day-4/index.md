@@ -2,7 +2,7 @@
 title: "Day 4"
 date: 2026-01-19
 draft: true
-tags: []
+tags: ["learning"]
 ---
 
 Meet my greatest opponent, _"Jingle Bells"_:
