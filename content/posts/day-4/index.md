@@ -22,6 +22,8 @@ Then, after _Jingle Bells_, there's _Brother John_:
 
 Same story except this time they don't even show me the starting note on the treble staff. Too bad, Nadim's brain! Better get used to it!
 
+You'll notice that in both the treble and bass staffs in _Brother John_, there's a lightning-shaped squiggly line. This means "rest for one count" (out of four). Then, the little hockey puck means "half rest", which is "resting for two counts". Why not just not put any notes at all?! Instead of the strange arbitrary shapes?? But what do I know.
+
 So, today's goal has been to keep repeating these two pieces until they're effortless, with both hands playing together.
 
 Also, during today's lunch break, I watched a bunch of videos from [Jazer Lee](https://www.youtube.com/@jazerleepiano)'s YouTube channel. He seems really good, and his videos are giving me a lot of insight on random things about playing the piano.
