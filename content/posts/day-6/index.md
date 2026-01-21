@@ -19,7 +19,7 @@ _Mary Ann_ requires more nimble and varied use of the left hand for bass clef no
 
 Also! My first piano lesson with an actual piano teacher is next Monday morning. He seems to be an old-fashioned classical learning style of guy; I say this based on his instructions, which amount to 
 
-> "Don't adopt bad form or habits by the time we meet! Stick to Alfred's, and bring with you a notebook and these three books:" -- Piano teacher
+> _"Don't adopt bad form or habits by the time we meet! Stick to Alfred's, and bring with you a notebook and these three books:"_ -- Piano teacher
 
 The three books:
 
